@@ -18,10 +18,4 @@ jobs:
       - name: Update README with recent activity
         uses: JamesIves/github-activity-readme@v0.3.0
         with:
-          REPOSITORY: ${{ github.repository }}
           TOKEN: ${{ secrets.REPO_TOKEN }}
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "docs: update README with recent activity"
