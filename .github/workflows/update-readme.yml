@@ -3,20 +3,20 @@ name: Update README with Activity
 on:
   workflow_dispatch:     # 手動觸發
   schedule:
-    - cron: "0 * * * *"  # 每小時自動執行一次
+    - cron: "0 * * * *"  # 每小時執行一次
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # 僅允許寫入內容 (least privilege)
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with recent activity
-        uses: JamesIves/github-activity-readme@main
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
         with:
-          TOKEN: ${{ secrets.REPO_TOKEN }}
-
+          GITHUB_USERNAME: HmtWu   # ← 換成你的 GitHub 帳號
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
