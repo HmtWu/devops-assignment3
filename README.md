@@ -5,7 +5,7 @@ This repository is created for **Assignment 3 (DevOps: Auto-Updating README via 
 ---
 
 ## 📌 Project Info
-- **Author:** [Your Name]
+- **Author:** [HmtWu]
 - **Course:** DevOps Assignment 3
 - **Objective:** Auto-update README and link with a project management tool
 
