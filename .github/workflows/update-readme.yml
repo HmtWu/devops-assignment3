@@ -16,8 +16,8 @@ jobs:
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GH_USERNAME: HmtWu
-          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+          GITHUB_USERNAME: HmtWu
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
