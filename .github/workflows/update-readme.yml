@@ -1,4 +1,4 @@
-name: Update README Activity
+name: Update README with Activity
 
 on:
   workflow_dispatch:   # 手動觸發
