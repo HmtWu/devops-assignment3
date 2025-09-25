@@ -2,9 +2,7 @@ name: Update README with Activity
 
 on:
   workflow_dispatch:     # 手動觸發
-  schedule:
-    - cron: "0 * * * *"  # 每小時執行一次
-
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
