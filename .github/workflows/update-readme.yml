@@ -1,8 +1,8 @@
-name: Update README with Activity
+name: Update README Activity
 
 on:
-  workflow_dispatch:     # 手動觸發
-  
+  workflow_dispatch:   # 手動觸發
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,5 +16,10 @@ jobs:
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: HmtWu   # ← 換成你的 GitHub 帳號
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+          GH_USERNAME: HmtWu
+          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update README with recent activity"
