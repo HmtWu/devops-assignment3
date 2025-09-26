@@ -24,4 +24,5 @@ This is my demo repository for Assignment 3.
 I enjoy exploring DevOps, automation, and project management tools.  
 <!-- MYLINKS:END -->
 
-### Test update from issue branch
+### Update from issue branch
+This line was added in branch linked to Issue #1.
