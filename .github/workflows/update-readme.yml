@@ -7,7 +7,8 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write    # 允許修改 repo (更新 README)
+      issues: write      # 允許關閉 issue (進階加分用)
 
     steps:
       - name: Checkout repository
