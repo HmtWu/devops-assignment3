@@ -1,7 +1,7 @@
 name: Update README with Activity
 
 on:
-  workflow_dispatch:   # 手動觸發
+  workflow_dispatch:   
 
 jobs:
   update-readme:
