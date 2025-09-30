@@ -23,7 +23,7 @@ This repository is created for **Assignment 3 (DevOps: Auto-Updating README via 
 8. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/068fcdcb7e791b111fc4d275480dee8701d96e97)
 9. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/67a1de784126fc35b5fe081c411f667020b639dd)
 10. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/41945afbe8db16f4e36feb73e1778a6398393871)
-
+<!--END_SECTION:activity-->
 
 ---
 
