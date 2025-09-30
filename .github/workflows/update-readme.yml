@@ -3,13 +3,16 @@ name: Update README with Activity
 on:
   workflow_dispatch:
   pull_request:
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    
-      issues: write      
+      contents: write
+      issues: write
 
     steps:
       - name: Checkout repository
@@ -21,6 +24,7 @@ jobs:
           GITHUB_USERNAME: HmtWu
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
 
+      # ✅ 只有在 main branch 時才 commit
       - name: Commit changes
         if: github.ref == 'refs/heads/main'
         uses: stefanzweifel/git-auto-commit-action@v5
