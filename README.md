@@ -36,3 +36,11 @@ I enjoy exploring DevOps, automation, and project management tools.
 
 ### Update from issue branch
 This line was added in branch linked to Issue #1.
+
+# DevOps Assignment 3 Demo
+
+![Update README with Activity](https://github.com/HmtWu/devops-assignment3/actions/workflows/update-readme.yml/badge.svg)
+![Validate README](https://github.com/HmtWu/devops-assignment3/actions/workflows/validate-readme.yml/badge.svg)
+
+This repository is created for **Assignment 3 (DevOps: Auto-Updating README via GitHub Actions + Project Management Linkage).**
+
