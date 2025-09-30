@@ -1,0 +1,19 @@
+name: Validate README Markers
+
+on:
+  pull_request:   # 只要有人開 PR 就會檢查
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check README markers
+        run: |
+          if ! grep -q "<!--START_SECTION:activity-->" README.md || ! grep -q "<!--END_SECTION:activity-->" README.md; then
+            echo "❌ README markers are missing!"
+            exit 1
+          else
+            echo "✅ README markers found!"
+          fi
