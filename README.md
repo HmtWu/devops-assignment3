@@ -13,16 +13,16 @@ This repository is created for **Assignment 3 (DevOps: Auto-Updating README via 
 
 ## 🚀 Recent Repository Activity
 <!--START_SECTION:activity-->
-1. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-2. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/74e536c189b1204ff50811e8be9365a8bf386fe2)
-3. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/6246e5a5e127cabd967622413dcf984c036ca8ff)
-4. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/c42e2d89c5f12d8e450768631874d024bab0de26)
-5. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/809f9a85ee944d16542d4b5d0dc890f3346bfed3)
-6. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/99fd8109f5fecc35e4d1beda70c095ddced1c212)
-7. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/c10a36ecbe7a49ac406de7dded65e7355980f199)
-8. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/ebbc12b0543432414796e86ecc752115c4ec7df1)
-9. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/34e005305e680b1bc5f900276d083172caea826e)
-10. 📝 Committed to [HmtWu/devops-assignment3](https://github.com/HmtWu/devops-assignment3/commit/6e1f919484164d977ce3b0afa504bda71348e0b3)
+1. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/1238cf8909bb872353eaeabd892533b958991d83)
+2. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/392126ae9750d23f8ee4f942c79b0701aceefaa9)
+3. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/b7bed074bd8ce19073d3b2a35a0acff7071029e6)
+4. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/d1dc693342c4dc38590de8217e7d6e8379289727)
+5. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/d45903f5dac1600253a216046eabd2052cc16d1b)
+6. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/f65944577684b0f6928f4abf1c3f9356159c97e6)
+7. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/ac0a12a2a6b71b1b5a25a73e2e30bbf25ab230d6)
+8. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/f2658e8626ec3cc2d5f5a3c282d035b8e14ad30e)
+9. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/16f54eaf3a8ccbf1a76d80198f15b6bb3e7935d9)
+10. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
 <!--END_SECTION:activity-->
 
 ---
