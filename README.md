@@ -13,16 +13,16 @@ This repository is created for **Assignment 3 (DevOps: Auto-Updating README via 
 
 ## 🚀 Recent Repository Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/1238cf8909bb872353eaeabd892533b958991d83)
-2. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/392126ae9750d23f8ee4f942c79b0701aceefaa9)
-3. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/b7bed074bd8ce19073d3b2a35a0acff7071029e6)
-4. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/d1dc693342c4dc38590de8217e7d6e8379289727)
-5. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/d45903f5dac1600253a216046eabd2052cc16d1b)
-6. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/f65944577684b0f6928f4abf1c3f9356159c97e6)
-7. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/ac0a12a2a6b71b1b5a25a73e2e30bbf25ab230d6)
-8. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/f2658e8626ec3cc2d5f5a3c282d035b8e14ad30e)
-9. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/16f54eaf3a8ccbf1a76d80198f15b6bb3e7935d9)
-10. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+1. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/66d8548a53b1c9255f5f9926f099b501dc547243)
+2. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/3cf4f62263814413cf4a57f97f5b7cd63fe5b947)
+3. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/d8a2526dea0c71f077f851d3b4a53e69c9ab9c7a)
+4. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/9af8e829db9fbbe3ec2d9f52382c968b6c232602)
+5. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/c9f9a429460bf537c3d1be16cab9a94180dec245)
+6. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/3784b30ae4f00cb112531e1d3ca070081f2fef76)
+7. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/edb9564e95d4a2ea47e455308c19cf997c51bbd0)
+8. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/44b43549ee312e98a01aef5b929bd2156ec0de22)
+9. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/9ede2f2ce65667aa177e3824d0813e12ddef28fc)
+10. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/83168272f9ee96d9abd2364268035464d0e98871)
 <!--END_SECTION:activity-->
 
 ---
