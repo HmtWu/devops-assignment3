@@ -13,16 +13,16 @@ This repository is created for **Assignment 3 (DevOps: Auto-Updating README via 
 
 ## 🚀 Recent Repository Activity
 <!--START_SECTION:activity-->
-1. undefined
+1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 🎉 Created a new branch `main` in a private repo
-6. 📝 Committed to [Gruandal/cloud-test-project](https://github.com/Gruandal/cloud-test-project/commit/e9e5a169e022365bd5c97c91e9784ad5794c7971)
-7. 📝 Committed to [Gruandal/cloud-test-project](https://github.com/Gruandal/cloud-test-project/commit/09a1f17b5c1c444752727815d3a271b1fcb0f330)
-8. undefined
-9. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/6e66f1c57560b0970a7da7a9a0e84434853f2890)
-10. 📝 Committed to [HmtWu/activity-log](https://github.com/HmtWu/activity-log/commit/e17fe7beb63edd2e0e51a0e0c54418f7caec0246)
+4. 📥 Opened a PR in a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. 📝 Committed to a private repo
+8. 📥 Opened a PR in a private repo
+9. 📝 Committed to a private repo
+10. 🎉 Created a new branch `feat/C-B` in a private repo
 <!--END_SECTION:activity-->
 
 ---
